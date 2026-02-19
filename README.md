@@ -111,6 +111,24 @@ Delivery Model:
 - Testing and performance analysis
 - Documentation and structured reporting
 
+# Progressive Implementation Model
+
+The 4-Tier structure is designed as a progressive pathway.
+
+Institutions may begin with Tier 1 sessions to strengthen
+curriculum alignment and foundational clarity.
+
+Based on engagement level and institutional readiness,
+the program can gradually expand to:
+
+Tier 2 – Applied measurement and skill-building  
+Tier 3 – System-level understanding and integration  
+Tier 4 – Advanced system integration, robotics, and AI-based modules  
+
+This progressive model enables long-term academic collaboration
+rather than one-time workshop implementation.
+
+
 ### Sample Advanced Modules
 
 - Robotics System Architecture (Sensor–Controller–Actuator Model)

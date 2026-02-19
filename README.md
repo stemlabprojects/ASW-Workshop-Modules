@@ -4,88 +4,140 @@ This repository outlines the structured module framework of
 Applied Science Workshops for Educational Institutes.
 
 The program is organized under a 4-Tier Classification System
-based on delivery depth, engagement level, and resource intensity.
+based on delivery depth, engagement level, supervision intensity,
+and resource requirement.
 
-The tiers are progressive in nature and allow institutions
-to select modules according to academic level, infrastructure,
-and budget suitability.
+Each tier is designed to suit different academic levels,
+infrastructure conditions, and institutional objectives.
 
 ---
 
 # 4-Tier Program Classification Framework
 
-## Tier 1 – Syllabus-Aligned Core Sessions  
-Curriculum reinforcement through guided demonstrations and structured discussion.  
-Designed for low-cost implementation and safe classroom engagement.
+---
 
-### Sample Session Themes:
+## Tier 1 – Syllabus-Aligned Core Sessions
+
+Curriculum reinforcement through guided demonstrations and structured academic discussion.
+
+Designed for:
+
+- Low-cost implementation
+- Safe classroom engagement
+- Large batch delivery
+- Conceptual strengthening
+
+### Sample Session Themes
 
 - Observation vs Measurement (Heat, Light, Speed)
-- Understanding Series & Parallel (Conceptual Reinforcement)
+- Series & Parallel Concept Reinforcement
 - Basic Electrical Safety & Handling Discipline
 - Measurement Error & Variation Demonstration
 - Time, Distance & Speed Observation Model
 
-Focus: Concept clarity, structured thinking, safe academic reinforcement.
+**Focus:**  
+Concept clarity • Structured observation • Academic reinforcement
 
 ---
 
-## Tier 2 – Skill-Building Applied Modules  
-Structured hands-on engagement involving observation, measurement, and reasoning.  
-Moderate material usage and supervised activity.
+## Tier 2 – Skill-Building Applied Modules
 
-### Sample Module Themes:
+Structured hands-on engagement involving observation,
+basic measurement, and guided reasoning.
+
+Designed for:
+
+- Moderate batch sizes
+- Supervised activity
+- Practical exposure
+
+### Sample Module Themes
 
 - Introduction to Multimeter & Basic Measurement
 - Current Limiting & Safe Load Understanding
-- Light Intensity Comparison & Recording
+- Light Intensity Recording & Comparison
 - Controlled Experiment Execution & Data Logging
+- Soil Moisture Observation Model
 - Process-Oriented Assembly Activity
 
-Focus: Measurement discipline, structured recording, applied reasoning.
+**Focus:**  
+Measurement discipline • Applied reasoning • Structured recording
 
 ---
 
-## Tier 3 – Demonstration & System Understanding Modules  
-Interactive system-level exposure with emphasis on workflow logic and interpretation.
+## Tier 3 – Demonstration & System Understanding Modules
 
-### Sample Module Themes:
+Interactive system-level exposure with emphasis on workflow logic,
+component interaction, and structured interpretation.
+
+Designed for:
+
+- Senior students
+- Concept-to-system understanding
+- Moderate complexity modules
+
+### Sample Module Themes
 
 - Input → Process → Output System Model
-- Sensor-Based Demonstration (Conceptual)
+- Sensor-Based Demonstration (Conceptual Integration)
 - Power Regulation & Control Awareness
-- Multi-Step Assembly & Observation
+- Multi-Component Interaction Model
 - Structured Troubleshooting Exercise
+- Environmental Monitoring Demonstration
 
-Focus: System integration, workflow awareness, process discipline.
-
----
-
-## Tier 4 – Advanced Analytical Modules  
-Higher-level conceptual and applied engagement for senior students.
-
-### Sample Module Themes:
-
-- Multi-Parameter Measurement Discussion
-- Performance Variation Analysis
-- Structured Prototype Demonstration
-- Energy System Overview (Conceptual)
-- Documentation & Reporting Practice
-
-Focus: Analytical thinking, structured improvement, production-oriented reasoning.
+**Focus:**  
+System integration • Workflow awareness • Process discipline
 
 ---
 
-# Development Philosophy
+## Tier 4 – Advanced System Integration, Robotics & AI Modules
 
-Modules are delivered in a controlled, supervised format
-with emphasis on:
+Higher-level conceptual, analytical, and project-based engagement
+designed for senior students and advanced learners.
+
+This tier includes structured exposure to:
+
+- Robotics fundamentals
+- Intelligent system behavior
+- Automation logic
+- AI-based decision concepts
+- Integrated system development
+
+Delivery Model:
+
+- Conceptual system architecture understanding
+- Guided hands-on assembly
+- Controlled project integration
+- Testing and performance analysis
+- Documentation and structured reporting
+
+### Sample Advanced Modules
+
+- Robotics System Architecture (Sensor–Controller–Actuator Model)
+- Autonomous Obstacle Response Model
+- Line-Following Navigation System
+- Intelligent Environmental Monitoring System
+- Introduction to AI Logic (Rule-Based Decision Systems)
+- Automation & Production Workflow Simulation
+- Closed-Loop Control Concept Demonstration
+- System Efficiency & Optimization Analysis
+
+**Focus:**  
+System integration • Intelligent behavior • Analytical thinking • Production-oriented mindset
+
+---
+
+# Delivery Philosophy
+
+Across all tiers, modules are implemented with emphasis on:
 
 - Academic alignment
 - Safety discipline
 - Measurement awareness
+- Structured execution
 - Process-oriented thinking
 - Gradual progression of complexity
 
-The module library will continue to expand progressively.
+The module library will continue to expand progressively,
+allowing scalable implementation across diverse institutional settings.
 

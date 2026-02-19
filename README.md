@@ -14,6 +14,8 @@ infrastructure conditions, and institutional objectives.
 
 # 4-Tier Program Classification Framework
 
+![4-Tier Framework Grid](tier-framework-grid.png)
+
 ---
 
 ## Tier 1 – Syllabus-Aligned Core Sessions
